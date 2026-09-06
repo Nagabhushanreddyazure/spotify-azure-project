@@ -1,1 +1,1 @@
-# spotif-yazure-project
+# spotify-azure-project
